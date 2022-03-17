@@ -14,7 +14,6 @@
 # Contributor: Ross Clark <contact@artisteducator.com>
 
 
-
 pkgbase=czkawka
 pkgname=("czkawka-cli" "czkawka-gui")
 pkgver=4.0.1
