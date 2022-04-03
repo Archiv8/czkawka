@@ -8,10 +8,9 @@
 # ToDo: Add files: User documentation
 # ToDo: Add files: Tooling
 # FixMe: Namcap warnings and errors
-# FixMe: Icons
 
-# Maintainer: Fabian Bornschein <fabiscafe-cat-mailbox-dog-org>
-# Contributor: Ross Clark <contact@artisteducator.com>
+# Maintainer: Ross Clark <archiv8@artisteducator.com>
+# Contributor: Ross Clark <archiv8@artisteducator.com>
 
 
 pkgbase=czkawka
